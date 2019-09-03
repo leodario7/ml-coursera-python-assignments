@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#576c64",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#b987d7",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#40504a",
+        "titleBar.inactiveBackground": "#40504a99",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#40504a",
+        "statusBarItem.hoverBackground": "#576c64",
+        "statusBar.foreground": "#e7e7e7",
+        "tab.activeBorder": "#576c64"
+    },
+    "peacock.color": "#40504a",
+    "python.pythonPath": "C:\\Users\\Leonardo\\Anaconda3\\envs\\ml-coursera\\python.exe",
+    "peacock.remoteColor": "#22f374"
+}
